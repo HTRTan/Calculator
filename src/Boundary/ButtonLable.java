@@ -9,7 +9,7 @@ import javax.swing.SwingConstants;
 
 public class ButtonLable extends JLabel{
 	/**
-	 * 
+	 * ∞¥≈•¿‡
 	 */
 	private static final long serialVersionUID = -2701473560168944199L;
 	Color Col1=new Color(243,243,245);
@@ -24,10 +24,8 @@ public class ButtonLable extends JLabel{
     Color Col_RED=new Color(188,47,46);
     Color Col_Blue=new Color(26,90,153);
     
-    private int BCount;
     private String BLName;
    public ButtonLable(String LableName ,int Count){
-	   BCount = Count;
 	   BLName = LableName;
        setText(BLName);
        setFont(new java.awt.Font("Œ¢»Ì—≈∫⁄", 0, 16));

@@ -1,13 +1,14 @@
 package Boundary;
 
 import java.awt.Color;
-import java.awt.event.MouseEvent;
-import java.awt.event.MouseListener;
 
 import javax.swing.JLabel;
 import javax.swing.SwingConstants;
 
 public class ShowLable extends JLabel{
+	/**
+	 * œ‘ æøÚ¿‡
+	 */
 	private static final long serialVersionUID = -2701473560168944199L;
 	Color Col1=new Color(243,243,245);
     Color Col2=new Color(232,232,235);

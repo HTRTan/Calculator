@@ -20,10 +20,14 @@ import javax.swing.plaf.FontUIResource;
 
 /**
  * @author HTRTan
- *
+ * @version 1.0.0
  */
 public class MainDialog extends JFrame{
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -5758577267899490557L;
 	Color Col1=new Color(243,243,245);
     Color Col2=new Color(232,232,235);
     Color Col3=new Color(221,221,225);
